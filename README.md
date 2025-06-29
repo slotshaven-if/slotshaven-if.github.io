@@ -1,2 +1,2 @@
-# slotshaven-if.github.io
-Websted på GitHub for Informatik C på Slotshaven Gymnasium 
+# Informatik C på Slotshaven
+Websted for Informatik C på Slotshaven Gymnasium 
