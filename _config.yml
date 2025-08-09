@@ -3,7 +3,7 @@ description: Slotshaven Gymnasium
 theme: jekyll-theme-cayman
 
 collections:
-  emner:
+  emne:
     output: true
     permalink: /emne/:name/
 defaults:
