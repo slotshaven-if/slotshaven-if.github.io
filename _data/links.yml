@@ -1,0 +1,28 @@
+- name: Læreplan
+  published: true
+  id: laereplan
+  category: regler
+  source: uvm
+  description: Undervisningsministeriet læreplan for Informatik C (2017).
+  url: https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf
+- name: Vejledning til læreplan
+  published: true
+  id: vejledninglaereplan
+  category: regler
+  source: uvm
+  description: Undervisningsministeriet vejledning til læreplan informatik C (2024).
+  url: https://www.uvm.dk/-/media/filer/uvm/udd/gym/pdf24/aug/vejledninger/240807vejledning-teknikfag-a-digitalt-design-og-udvikling--htx-2024.pdf
+- name: Slotshaven Gymnasium
+  published: false
+  id: slotshaven
+  category: general
+  source: slotshaven
+  description: Slotshaven Gymnasiums hjemmeside.
+  url: https://www.slotshaven.dk/
+- name: Teams Filer
+  published: true
+  id: teams
+  category: fildeling
+  source: slotshaven
+  description: Fælles filserver for Informatik på Teams (kræver login).
+  url: https://teams.microsoft.com/l/channel/19%3A5_Bl6iBH20GPeL46dR6__-7M8fwRG8LJf6eCK2_b82Q1%40thread.tacv2/General?groupId=fa21d06a-c4ed-4bbf-8082-b2f277f71ac0&tenantId=86fab2dc-170a-4f76-844b-d7dfdbdef3d8

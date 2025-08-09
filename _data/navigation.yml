@@ -1,0 +1,10 @@
+- name: Hjem
+  link: /
+- name: Emner
+  link: /emner
+- name: Værktøjer
+  link: /vaerktoejer
+- name: Eksamen
+  link: /eksamen
+- name: Om Informatik
+  link: /om

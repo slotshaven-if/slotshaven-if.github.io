@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"window.title": "If Pages (${activeRepositoryName})",
+		"editor.tabSize": 2,
+		"editor.indentSize": "tabSize",
+		"editor.detectIndentation": false,
+		"editor.insertSpaces": true,
+		"files.trimTrailingWhitespace": true,
+		"files.insertFinalNewline": true,
+		"git.enableSmartCommit": true,
+		"git.confirmSync": false
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.vscode-json",
+			"ms-vscode.vscode-markdown",
+			"eamodio.gitlens"
+		]
+	}
+}
