@@ -1,6 +1,6 @@
 ---
 author: MKM
-title: Eksamen (opdateres)
+title: Eksamen
 description: '- alt om eksamen'
 permalink: /eksamen
 ---

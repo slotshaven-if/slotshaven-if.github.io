@@ -1,19 +1,20 @@
 ---
 title: Informatik C
-description: '- IT-kompetancer'
+description: '- IT-kompetencer i en kompleks verden'
 published: yes
 permalink: /om
 ---
-## Indledning
-
 ## Om faget
 Følger.
 
-## Eksamen
-[Læs mere om eksamen ↗️](sider/eksamen.md)
+## Faglige mål
+Følger.
 
-## Lokaler
-Undervisning foregår i lokale 73 og nogle gange i værkstedet i kælderen.
+## Kernestof
+Følger.
+
+## Eksamen
+[Læs mere om eksamen ↗️]({% link sider/eksamen.md %}).
 
 ## Læreplaner
 Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
@@ -21,10 +22,7 @@ Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
 {% for item in site.data.links %}
 {% if item.source == "uvm" %}
 
-### {{ item.name }}
-
-{{ item.description }}
-
+**{{ item.name }}** - {{ item.description }}\
 [↗️ PDF]({{ item.link }}){:target="_blank" rel="noopener"}
 
 {% endif %}
