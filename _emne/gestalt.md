@@ -1,6 +1,6 @@
 ---
 title: Gestalt-lovene
-description: '- nærhed, lighed osv. '
+description: '- lighed, nærhed og forbundethed ...'
 order: 1
 ---
 Beskrivelse følger.
