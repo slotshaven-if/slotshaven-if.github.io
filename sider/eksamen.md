@@ -4,11 +4,8 @@ title: Eksamen
 description: '- alt om eksamen'
 permalink: /eksamen
 ---
-## Introduktion
-Følger.
+Indhold følger.
 
 ## Eksamensform
-Følger.
 
 ## Bedømmelse
-Følger.

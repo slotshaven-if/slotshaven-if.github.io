@@ -5,18 +5,23 @@ published: yes
 permalink: /om
 ---
 ## Om faget
+
 Følger.
 
 ## Faglige mål
+
 Følger.
 
 ## Kernestof
+
 Følger.
 
 ## Eksamen
+
 [Læs mere om eksamen ↗️]({% link sider/eksamen.md %}).
 
 ## Læreplaner
+
 Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
 
 {% for item in site.data.links %}
@@ -27,6 +32,3 @@ Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
 
 {% endif %}
 {% endfor %}
-
-## Bogmærker
-Se også [bogmærker]({% link sider/bogmaerker.md %}).

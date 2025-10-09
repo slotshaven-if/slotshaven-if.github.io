@@ -19,13 +19,6 @@
   source: slotshaven
   description: Slotshaven Gymnasiums hjemmeside.
   url: https://www.slotshaven.dk/
-- name: Teams Filer
-  published: true
-  id: teams
-  category: fildeling
-  source: slotshaven
-  description: Fælles filserver for Informatik på Teams (kræver login).
-  url: https://teams.microsoft.com/l/channel/19%3A0FklateQmkAOCPD1J8XO0mV_7wKX6nLFBXX3BaiYYfo1%40thread.tacv2/General?groupId=8f5b5b0a-e29e-4c1e-b1d1-44e52927337e&tenantId=86fab2dc-170a-4f76-844b-d7dfdbdef3d8
 - name: Informatik
   published: true
   id: informatik
