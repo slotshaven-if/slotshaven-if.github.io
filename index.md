@@ -1,5 +1,6 @@
 ---
-title: Informatik | MKM | 1r & 1a
+title: Informatik C
+description: 1a & 1r | 2025-2026
 author: mkm
 ---
 På disse sider findes en lang række nyttige og praktiske informationer om Informatik C for klasserne 1a & 1r.
