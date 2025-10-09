@@ -29,7 +29,7 @@
       //alert("Welcome again " + user);
       document.getElementById("hej").innerHTML = "Velkommen igen " + user;
     } else {
-      user = prompt("Please enter your name:", "");
+      user = prompt("Venligst indtast dit navn:", "");
       if (user != "" && user != null) {
         setCookie("username", user, 30);
       }
@@ -42,4 +42,7 @@
   });
 </script>
 <h1 id="hej">Cookie-test</h1>
-<p>Højreklik->Vis kilde for at se kode</p>
+<p>
+  Du kan bruge udviklerværktøjerne i browseren for at se hvilke cookies der er
+  sat.
+</p>

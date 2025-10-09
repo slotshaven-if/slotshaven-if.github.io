@@ -1,6 +1,8 @@
 ---
 title: Demo af cookies
-description: '- Husk Nit Navn'
+description: '- Husk Dit Navn'
 permalink: /cookie-test
 ---
 {% include cookie_test.html %}
+
+
