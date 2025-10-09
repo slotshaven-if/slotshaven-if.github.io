@@ -1,0 +1,24 @@
+<h2>Random Order Generator</h2>
+<p>Paste a list of names (one per line) below:</p>
+<textarea id="studentInput" placeholder="Enter names here..."></textarea>
+<button onclick="generateRandomOrder()">Generate Random Order</button>
+<ul id="resultList"></ul>
+
+<script>
+  function generateRandomOrder() {
+    const input = document.getElementById("studentInput").value;
+    const students = input.split("\n").filter((name) => name.trim() !== "");
+    const randomized = students
+      .map((name) => ({ name, order: Math.random() }))
+      .sort((a, b) => a.order - b.order)
+      .map((item, index) => `${index + 1}. ${item.name}`);
+
+    const resultList = document.getElementById("resultList");
+    resultList.innerHTML = "";
+    randomized.forEach((student) => {
+      const li = document.createElement("li");
+      li.textContent = student;
+      resultList.appendChild(li);
+    });
+  }
+</script>
