@@ -3,9 +3,9 @@ title: Informatik C
 description: 1a & 1r | 2025-2026
 author: mkm
 ---
-På disse sider findes en lang række nyttige og praktiske informationer om Informatik C for klasserne 1a & 1r.
+På disse sider findes nyttige og praktiske informationer om Informatik C for klasserne 1a & 1r.
 
-Siderne vil løbende blive opdateret.
+Siderne vil løbende blive opdateret efter behov.
 
 ## Faget Informatik
 
@@ -14,9 +14,9 @@ Blomsten viser fagets kernestof.
 
 Læs mere om Informatik [her &#x2197;]({% link sider/om.md %})
 
-## Emner
+<!-- ## Emner
 
-Se også [oversigten over emner &#x2197;]({% link sider/emner.md %}).
+Se også [oversigten over emner &#x2197;]({% link sider/emner.md %}). -->
 
 ## Grundbøger
 
@@ -24,4 +24,4 @@ Se også [oversigten over emner &#x2197;]({% link sider/emner.md %}).
 
 ## Filer og materialer
 
-Findes i lectio eller kan findes her.
+Findes i lectio eller her.
