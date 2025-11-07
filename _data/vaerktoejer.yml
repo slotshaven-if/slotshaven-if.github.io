@@ -1,5 +1,0 @@
-- name: Visual Studio Code
-  id: vscode
-  category: kode
-  description: Vi bruger Visual Studio Code til at lave websider
-  url: https://code.visualstudio.com/

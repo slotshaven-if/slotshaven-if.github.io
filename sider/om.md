@@ -71,12 +71,15 @@ Informatik hænger sammen med andre fag. Du skal kunne bruge viden fra fx samfun
 Du bliver vurderet gennem dine projekter og logbog. Du får feedback, så du kan følge din udvikling.
 
 **4.2 Prøveformer**
-Eksamen er mundtlig. Du trækker en opgave og får 24 timer til at forberede dig (ofte i gruppe). Du skal præsentere din løsning og derefter tale om den med lærer og censor.
+Eksamen er indidviduel og mundtlig, men forberedelsen er i grupper på 2-3.
+
+Gruppen trækker en opgave og får 24 timer til at forberede sig.
+Du skal præsentere din løsning og derefter tale om den med lærer og censor.
 
 **4.3 Bedømmelse**
 Du får én karakter, som vurderer, hvor godt du opfylder fagets mål – både fagligt og metodisk.
 
-## Uddrag af lærerplanen
+## Uddrag af læreplanen
 
 "Undervisningen organiseres omkring flere temaer og projekter. Disse vælges, så de tilsammen dækker kernestof og
 supplerende stof, med henblik på at der er en klar progression i arbejdet med faglige mål (..)"

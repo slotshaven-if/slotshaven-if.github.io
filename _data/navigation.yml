@@ -1,6 +1,4 @@
-- name: Hjem
+- name: Forside
   link: /
-- name: Eksamen
-  link: /eksamen
 - name: Om Informatik
   link: /om
