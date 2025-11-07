@@ -1,9 +1,10 @@
 ---
-title: Informatik C
+title: Informatik C (MKM)
 description: '- IT-kompetencer i en kompleks verden'
 published: yes
 permalink: /om
 ---
+
 
 Det følgende er en læsevenlig, AI-genereret opsummering af læreplanen for Informatik C.
 

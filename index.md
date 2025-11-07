@@ -1,10 +1,8 @@
 ---
 title: Informatik C (MKM)
-description: 1a & 1r | 2025-2026
+description: '- IT-kompetencer i en kompleks verden'
 author: mkm
 ---
-På disse sider findes nyttige og praktiske informationer om Informatik C for klasserne 1a & 1r.
-
 {% include faget-informatik.html %}
 
 ## Grundbøger
