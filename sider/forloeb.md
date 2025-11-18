@@ -22,23 +22,29 @@ Hvad er informatik?
 
 Hvad er en computer?
 
-- input &rarr; processering + hukommelse &rarr; output
-- Processor, hukommelse
+- Computer = input &rarr; processering + hukommelse &rarr; output
+- input- og output-enheder
+- Processor og hukommelse
 - Input- og output-enheder
 - 1 og 0 - det binære talsystem
-- Bits, bytes og andre datalogiske enheder
+- Bits, bytes og andre datalogiske enheder (KB, MB, GB, TB)
 
 Hvordan fungerer internettet?
 
 - Client-server
-- DNS og domæner
-- IP-numre
+- IP-numre, DNS og domæner
+- IPv4 og IPv6
 
 Hvad er Web?
 
-- HTML, CSS og Javascript
+- Browsere og søgemaskiner (og forskellen mellem dem)
+- Web = HTML (struktur), CSS (styling) og Javascript (kode)
 - HTTP og links
 - Min første webside!
+
+Filtyper
+
+- flade tekstfiler vs. binære formater
 
 ## Forløb: Prototyping og App-udvikling
 
@@ -71,9 +77,11 @@ Programmering
 
 - tre-lagsmodellen
 - variable
-- for-løkker og while-løkker (loops)
+ ̶ sekvenser og forgreninger (if-betingelser)
+- løkker (for- og while-loops)
+ ̶ funktioner
 - datatyper (heltal, tekst, sandt/falsk)
-- javascript
+- hvad er javascript?
 
 Applab
 
@@ -103,6 +111,7 @@ Sikkerhed
 - Logisk sikkerhed, fysisk sikkerhed og kryptering
 - CIA-modellen (confidence - integrity - accessibility)
 - Adgangskoder
+- MFA - multifaktor-godkendelse (noget du _er_, noget du _har_, noget du _ved_)
 - Authentication vs. authorization (_Hvem_ er du vs. _må_ du det?)
 - Kryptering
 - Netværksikkerhed
