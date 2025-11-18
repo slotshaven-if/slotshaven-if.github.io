@@ -2,18 +2,8 @@ title: Informatik C
 description: 1a & 1r | 2025-2026
 theme: jekyll-theme-cayman
 
-collections:
-  emne:
-    output: true
-    permalink: /emne/:name/
 defaults:
   - scope:
       path: "sider"
     values:
       permalink: /:slug/ # Default permalink for pages in the sider directory
-  - scope:
-      path: ""
-      type: emne  # Name of the collection
-    values:
-      published: true
-      layout: default

@@ -93,6 +93,9 @@ Applab
 - E/R-diagrammer (entity-relation)
 - relationer (en-til-en, en-til-mange, mange-til-mange)
 
+**Fagliget mål**:
+> Eleverne skal også få en forståelse for hvordan data kan organiseres i databaser - herunder hvordan data kan oprettes, ændres, flyttes og slettes heri - dog kun på et redegørende niveau.
+
 ## Forløb: Sikkerhed og hacking
 
 Sikkerhed
@@ -131,12 +134,6 @@ Hvad er en cookie?
 - De fire typer: nødvendige, funktionelle, statistiske - og trackere!
 - Browserværktøjer
 
-## SO1: "Digitalisering og Markedsanalyse"
-
-SO1 er et tværfagligt projekt mellem fagene Afsætning, Matematik og Informatik som finder sted efter vinterferien. Informatik-delen involverer en hjemmeside i WordPress.
-
-[Læs mere om SO1 på Studieportalen](https://slotshaven-studieportal.dk/studieomraadet-hhx/hhx-2017-2020/progressionsplan/)
-
 ## Forløb: Wordpress
 
 Som forberedelse til SO1-forløbet bliver I introduceret til CMS-systemet Wordpress.
@@ -144,6 +141,12 @@ Som forberedelse til SO1-forløbet bliver I introduceret til CMS-systemet Wordpr
 - Dit personlige CMS
 - Oprettelse og konfiguration
 - Indlæg, sider, menuer og temaer
+
+## SO1: "Digitalisering og Markedsanalyse"
+
+SO1 er et tværfagligt projekt mellem fagene Afsætning, Matematik og Informatik som finder sted efter vinterferien. Informatik-delen involverer en hjemmeside i WordPress.
+
+[Læs mere om SO1 på Studieportalen](https://slotshaven-studieportal.dk/studieomraadet-hhx/hhx-2017-2020/progressionsplan/)
 
 ## Forløb: Opsamling og eksamensforberedelse
 

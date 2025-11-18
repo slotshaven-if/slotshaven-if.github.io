@@ -21,7 +21,18 @@ Du skal lære at tænke systematisk, bruge modeller og kombinere teori med prakt
 ## 2. Faglige mål og indhold
 
 **2.1 Faglige mål**
-Du skal kunne:
+
+| Faglige mål |
+|-------------|
+|Konstruktion af it-system som løsning til en problemstilling |
+|It-systemers og menneskelig aktivitets gensidige påvirkning |
+|It-sikkerhed, netværk og arkitektur |
+|Repræsentation og manipulation af data|
+|Programmering |
+|Interaktionsdesign |
+|Innovation |
+
+Du skal fx kunne:
 
 - Løse små problemer ved at designe og teste et it-system.
 - Forstå, hvordan it påvirker mennesker og samfund.
@@ -74,8 +85,8 @@ Du bliver vurderet gennem dine projekter og logbog. Du får feedback, så du kan
 **4.2 Prøveformer**
 Eksamen er indidviduel og mundtlig, men forberedelsen er i grupper på 2-3.
 
-Gruppen trækker en opgave og får 24 timer til at forberede sig.
-Du skal præsentere din løsning og derefter tale om den med lærer og censor.
+Gruppen trækker en opgave og får 24 timer til at forberede sig sammen.
+Til prøven skal du præsentere din løsning og derefter tale om den med lærer og censor.
 
 **4.3 Bedømmelse**
 Du får én karakter, som vurderer, hvor godt du opfylder fagets mål – både fagligt og metodisk.
@@ -90,14 +101,3 @@ supplerende stof, med henblik på at der er en klar progression i arbejdet med f
 "I undervisningen er projektarbejdsformen fremtrædende (..)"
 
 **Om logbog**. "Den enkelte elev dokumenterer løbende sin faglige udvikling i en logbog. Dokumentationen i logbogen kan have form af f.eks. it-systemer, noter, synopser, journaler, programbeskrivelser og rapporter (..)"
-
-## Kilde
-
-{% for item in site.data.links %}
-{% if item.source == "uvm" %}
-
-**{{ item.name }}** - {{ item.description }}\
-[↗️ PDF]({{ item.link }}){:target="_blank" rel="noopener"}
-
-{% endif %}
-{% endfor %}

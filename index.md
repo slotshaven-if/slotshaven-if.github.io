@@ -20,3 +20,6 @@ Elisabeth Husum (red.): *Informatik B til EUX merkantil*, Gyldendal (2025), <htt
 Ken Mathiasen: *Informatik C*, Praksis, 2.udgave, <https://informatik-c-2.praxis.dk>
 
 Mikkel Michelsen: *UX Design*, Systime (2025), <https://uxdesign.systime.dk>
+
+CT, Informatik & Uddannelse (2022),
+<https://graspit.dk/wp-content/uploads/2022/01/Grundbog_informatik.pdf>
