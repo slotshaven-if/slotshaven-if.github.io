@@ -101,7 +101,7 @@ Applab
 - E/R-diagrammer (entity-relation)
 - relationer (en-til-en, en-til-mange, mange-til-mange)
 
-**Fagliget mål**:
+**Fagligt mål**:
 > Eleverne skal også få en forståelse for hvordan data kan organiseres i databaser - herunder hvordan data kan oprettes, ændres, flyttes og slettes heri - dog kun på et redegørende niveau.
 
 ## Forløb: Sikkerhed og hacking

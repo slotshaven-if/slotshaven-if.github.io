@@ -18,9 +18,9 @@ Du skal lære at tænke systematisk, bruge modeller og kombinere teori med prakt
 
 ---
 
-## 2. Faglige mål og indhold
+## 2. Faglige mål og fagligt indhold
 
-**2.1 Faglige mål**
+**2.1 Faglige mål.** Liste over faglige mål i stikordsform:
 
 | Faglige mål |
 |-------------|
@@ -34,61 +34,60 @@ Du skal lære at tænke systematisk, bruge modeller og kombinere teori med prakt
 
 Du skal fx kunne:
 
-- Løse små problemer ved at designe og teste et it-system.
-- Forstå, hvordan it påvirker mennesker og samfund.
-- Beskytte din digitale identitet og forstå it-sikkerhed.
-- Forklare, hvordan it-systemer er bygget op (arkitektur).
-- Arbejde med data og databaser.
-- Programmere simple systemer (funktioner, variabler, løkker).
-- Udvikle brugergrænseflader (interaktionsdesign).
-- Forklare, hvad der gør et it-system innovativt.
+- Løse små problemer ved at designe og teste et it-system
+- Forstå, hvordan it påvirker mennesker og samfund
+- Beskytte din digitale identitet og forstå it-sikkerhed
+- Forklare, hvordan it-systemer er bygget op (arkitektur)
+- Arbejde med data og databaser
+- Programmere simple systemer (funktioner, variabler, løkker)
+- Udvikle brugergrænseflader (interaktionsdesign)
+- Forklare, hvad der gør et it-system innovativt
 
-**2.2 Kernestof**
-Du lærer om:
+**2.2 Kernestof.** Du lærer om:
 
-- Samspil mellem mennesker og it (etik, adfærd, test).
-- Netværk, sikkerhed og internettets opbygning.
-- Datamodellering og databaser.
-- Programmering og grundlæggende kodning.
-- Design af brugerflader og prototyper.
-- Innovation og kreative it-løsninger.
+- Samspil mellem mennesker og it (etik, adfærd, test)
+- Netværk, sikkerhed og internettets opbygning
+- Datamodellering og databaser
+- Programmering og grundlæggende kodning
+- Design af brugerflader og prototyper
+- Innovation og kreative it-løsninger
 
-**2.3 Supplerende stof**
+**2.3 Supplerende stof.**
 (...)
 
-**2.4 Omfang**
+**2.4 Omfang.**
 (...)
 
 ---
 
 ## 3. Tilrettelæggelse
 
-**3.1 Didaktiske principper**
+**3.1 Didaktiske principper.**
 Undervisningen foregår gennem temaer og projekter. Du starter med at bruge færdige systemer, derefter ændrer du dem, og til sidst laver du egne it-løsninger. Der arbejdes trin for trin, så du hele tiden bliver bedre.
 
-**3.2 Arbejdsformer**
+**3.2 Arbejdsformer.**
 Du arbejder mest i projekter, som regel i grupper. Et eksempel et forløb hvor du selv udvikler en idé til et it-system. Du skal føre logbog med noter, kode og dokumentation.
 
-**3.3 It**
+**3.3 It.**
 Du bruger digitale værktøjer til dokumentation, præsentation og refleksion. Du lærer at vælge de rigtige værktøjer og bruge dem professionelt.
 
-**3.4 Samspil med andre fag**
+**3.4 Samspil med andre fag.**
 Informatik hænger sammen med andre fag. Du skal kunne bruge viden fra fx samfundsfag, matematik eller design til at forstå og løse opgaver.
 
 ---
 
 ## 4. Evaluering
 
-**4.1 Løbende evaluering**
+**4.1 Løbende evaluering.**
 Du bliver vurderet gennem dine projekter og logbog. Du får feedback, så du kan følge din udvikling.
 
-**4.2 Prøveformer**
+**4.2 Prøveformer.**
 Eksamen er indidviduel og mundtlig, men forberedelsen er i grupper på 2-3.
 
 Gruppen trækker en opgave og får 24 timer til at forberede sig sammen.
 Til prøven skal du præsentere din løsning og derefter tale om den med lærer og censor.
 
-**4.3 Bedømmelse**
+**4.3 Bedømmelse.**
 Du får én karakter, som vurderer, hvor godt du opfylder fagets mål – både fagligt og metodisk.
 
 ## Uddrag af læreplanen
