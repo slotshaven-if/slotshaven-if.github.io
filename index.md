@@ -5,21 +5,22 @@ author: mkm
 ---
 {% include faget-informatik.html %}
 
-## Grundbøger
+## Lærebøger
 
-Der kan blive brugt materiale fra disse bøger:
+Informatik (Systime) \
+<https://informatik.systime.dk>
 
-Elisabeth Husum (red): *Informatik*, Systime (2025), <https://informatik.systime.dk>
+Erhvervsinformatik til EUD/EUX (Gyldendal) \
+<https://erhvervsinformatik.systime.dk>
 
-Lasse Tage Olsen o.a: *Erhvervsinformatik til EUD/EUX*, Gyldendal (2025), <https://erhvervsinformatik.systime.dk>
+Informatik for alle (Columbus) \
+<https://informatikforalle.ibog.forlagetcolumbus.dk>
 
-Claus Witfelt: *Informatik for alle*, Columbus (2025), <https://informatikforalle.ibog.forlagetcolumbus.dk>
+Informatik B til EUX merkantil (Gyldendal) \
+<https://informatikbeux.systime.dk>
 
-Elisabeth Husum (red.): *Informatik B til EUX merkantil*, Gyldendal (2025), <https://informatikbeux.systime.dk>
+Informatik C (Praksis) \
+<https://informatik-c-2.praxis.dk>
 
-Ken Mathiasen: *Informatik C*, Praksis, 2.udgave, <https://informatik-c-2.praxis.dk>
-
-Mikkel Michelsen: *UX Design*, Systime (2025), <https://uxdesign.systime.dk>
-
-CT, Informatik & Uddannelse (2022),
-<https://graspit.dk/wp-content/uploads/2022/01/Grundbog_informatik.pdf>
+UX Design (Systime) \
+<https://uxdesign.systime.dk>

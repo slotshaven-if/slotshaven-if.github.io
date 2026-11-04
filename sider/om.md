@@ -4,9 +4,7 @@ description: '- IT-kompetencer i en kompleks verden'
 published: yes
 permalink: /om
 ---
-
-
-Det følgende er en læsevenlig, AI-genereret opsummering af læreplanen for Informatik C.
+Det følgende er en læsevenlig opsummering af læreplanen for Informatik C.
 
 ## 1. Identitet og formål
 
