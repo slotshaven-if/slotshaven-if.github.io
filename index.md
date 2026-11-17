@@ -24,3 +24,8 @@ Informatik C (Praksis) \
 
 UX Design (Systime) \
 <https://uxdesign.systime.dk>
+
+
+## Eksamen
+
+Læs mere om eksamen i [Informatik C-bogen](https://informatikc.systime.dk/?id=160)
